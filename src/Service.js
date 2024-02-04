@@ -1,0 +1,1 @@
+export const url ="https://travia-api-stg.gewaninfotech.com/login"
